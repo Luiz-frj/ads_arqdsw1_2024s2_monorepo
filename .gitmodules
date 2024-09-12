@@ -1,0 +1,3 @@
+[submodule "dsw1_exemplo_fatorial"]
+	path = dsw1_exemplo_fatorial
+	url = https://github.com/ednilsonrossi/dsw1_exemplo_fatorial
