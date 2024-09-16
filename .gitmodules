@@ -4,3 +4,6 @@
 [submodule "dsw1_diagnostica_lista_produtos"]
 	path = dsw1_diagnostica_lista_produtos
 	url = https://github.com/ednilsonrossi/dsw1_diagnostica_lista_produtos.git
+[submodule "dsw1_diagnostica_monitoramente_estoque"]
+	path = dsw1_diagnostica_monitoramente_estoque
+	url = https://github.com/ednilsonrossi/dsw1_diagnostica_monitoramente_estoque.git
