@@ -1,3 +1,6 @@
 [submodule "dsw1_exemplo_fatorial"]
 	path = dsw1_exemplo_fatorial
 	url = https://github.com/ednilsonrossi/dsw1_exemplo_fatorial
+[submodule "dsw1_diagnostica_lista_produtos"]
+	path = dsw1_diagnostica_lista_produtos
+	url = https://github.com/ednilsonrossi/dsw1_diagnostica_lista_produtos.git
