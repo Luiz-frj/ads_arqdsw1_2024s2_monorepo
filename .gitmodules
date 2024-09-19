@@ -7,3 +7,9 @@
 [submodule "dsw1_diagnostica_monitoramente_estoque"]
 	path = dsw1_diagnostica_monitoramente_estoque
 	url = https://github.com/ednilsonrossi/dsw1_diagnostica_monitoramente_estoque.git
+[submodule "dsw1_helloworld"]
+	path = dsw1_helloworld
+	url = https://github.com/ednilsonrossi/dsw1_helloworld.git
+[submodule "dsw1_projeto_agenda_contatos"]
+	path = dsw1_projeto_agenda_contatos
+	url = https://github.com/ednilsonrossi/dsw1_projeto_agenda_contatos
