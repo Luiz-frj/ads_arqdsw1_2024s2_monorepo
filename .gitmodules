@@ -13,3 +13,6 @@
 [submodule "dsw1_projeto_agenda_contatos"]
 	path = dsw1_projeto_agenda_contatos
 	url = https://github.com/ednilsonrossi/dsw1_projeto_agenda_contatos
+[submodule "dsw1_projeto_horario_mundial"]
+	path = dsw1_projeto_horario_mundial
+	url = https://github.com/ednilsonrossi/dsw1_projeto_horario_mundial.git
