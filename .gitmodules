@@ -16,3 +16,6 @@
 [submodule "dsw1_projeto_horario_mundial"]
 	path = dsw1_projeto_horario_mundial
 	url = https://github.com/ednilsonrossi/dsw1_projeto_horario_mundial.git
+[submodule "dsw1_hello_servlet"]
+	path = dsw1_hello_servlet
+	url = https://github.com/ednilsonrossi/dsw1_hello_servlet.git
