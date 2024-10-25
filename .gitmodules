@@ -19,3 +19,6 @@
 [submodule "dsw1_hello_servlet"]
 	path = dsw1_hello_servlet
 	url = https://github.com/ednilsonrossi/dsw1_hello_servlet.git
+[submodule "dsw1_fix2_temperature_converter"]
+	path = dsw1_fix2_temperature_converter
+	url = https://github.com/ednilsonrossi/dsw1_fix2_temperature_converter.git
