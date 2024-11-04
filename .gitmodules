@@ -28,3 +28,6 @@
 [submodule "dsw1_projeto_dados_pessoais"]
 	path = dsw1_projeto_dados_pessoais
 	url = https://github.com/ednilsonrossi/dsw1_projeto_dados_pessoais.git
+[submodule "dsw1_agenda_contatos_mvc"]
+	path = dsw1_agenda_contatos_mvc
+	url = https://github.com/ednilsonrossi/dsw1_agenda_contatos_mvc.git
