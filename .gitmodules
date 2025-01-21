@@ -31,3 +31,6 @@
 [submodule "dsw1_agenda_contatos_mvc"]
 	path = dsw1_agenda_contatos_mvc
 	url = https://github.com/ednilsonrossi/dsw1_agenda_contatos_mvc.git
+[submodule "dsw1_todoapi"]
+	path = dsw1_todoapi
+	url = https://github.com/ednilsonrossi/dsw1_todoapi.git
